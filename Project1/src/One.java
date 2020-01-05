@@ -5,6 +5,7 @@ public class One {
 		// TODO Auto-generated method stub
 		System.out.println("...............");
 		System.out.println(".....Branch Commit..........");
+		System.out.println(".....Remote changes undo..........");
 
 	}
 
