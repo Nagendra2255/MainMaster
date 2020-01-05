@@ -7,7 +7,6 @@ public class One {
 		System.out.println(".....Branch Commit..........");
 		System.out.println(".....Remote changes undo..........");
 		System.out.println(".....Remote changes undo2222222..........");
-		System.out.println(".....REVERT..........");
 
 	}
 
